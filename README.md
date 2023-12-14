@@ -9,9 +9,3 @@ This application provides users with the ability to view and edit their personal
 
 # Programming language:
 - Java
-
-# Screen shots:
-<picture> <img align="left" src="images\Login.jpeg" width = 250px></picture>
-<picture> <img align="left" src="images\Signup.jpeg" width = 250px></picture>
-<picture> <img align="left" src="images\Home.jpeg" width = 250px></picture>
-<picture> <img align="left" src="images\Transactions.jpeg" width = 250px></picture>
